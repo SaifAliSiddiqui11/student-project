@@ -6,3 +6,4 @@ here is list of my skills
 2.HTML
 3Node JS
 I have some experience in web dev
+Now I will provide some datails
