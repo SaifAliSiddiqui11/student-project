@@ -5,3 +5,4 @@ here is list of my skills
 1.JAvascript
 2.HTML
 3Node JS
+I have some experience in web dev
